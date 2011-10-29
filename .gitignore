@@ -1,5 +1,7 @@
 .Python
+*.pyc
 bin
 include
 lib
+secret.py
 share
